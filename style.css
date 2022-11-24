@@ -1,0 +1,116 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  font-size: 62.5%
+}
+
+body{
+  background: linear-gradient(287.56deg, #C2E9FB 0%, #A1C4FD 100%);
+
+  display:grid;
+  place-items: center;
+
+  height: 100vh;
+
+  margin-top: -10rem;
+}
+
+body, 
+input, 
+button{
+  font-family: 'DM Sans', sans-serif;
+}
+
+button{
+  width: 8.2rem;
+
+  background: #7879F1;
+  border-radius: 0px 4px 4px 0px;
+
+  color: white;
+
+  cursor: pointer;
+
+  transition: background .3s;
+}
+
+button:hover{
+  background: #5e5ec4;
+}
+
+.hide{
+  display: none;
+}
+
+main{
+  border-radius: .8rem;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+
+  padding: 4.8rem 6.4rem 6.4rem;
+
+  text-align: center;
+
+  background: white;
+
+  height: 27.3rem;
+  width: min(42.8rem, 90%);
+}
+
+form{
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 2.4rem;
+  line-height: 2.9rem;
+
+  color: #34355B;
+
+  padding-bottom: 1.6rem;
+}
+
+p{
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+
+  color: rgba(52, 53, 91, 0.8);
+
+  padding-bottom: 4rem;
+}
+
+input,
+button{
+  padding: 1.8rem;
+  height: 5.3rem;
+  border: none;
+}
+
+input{
+  width: 5rem;
+
+  background: #DCE2E9;
+  border-radius: .4rem 0 0 .4rem;
+}
+
+.screen2 h1{
+  font-weight: normal;
+
+  padding-bottom: 3.3rem
+}
+
+.screen2 button{
+  padding: 1.6rem;
+
+  width: 16.6rem;
+  height: 5.3rem;
+
+  border-radius: 4px;
+}
