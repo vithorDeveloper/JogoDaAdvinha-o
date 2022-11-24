@@ -13,7 +13,7 @@
 * HTML
 * CSS
 * JavaScript DOM
-*
+
 ## Abrir Projeto
 
 [Jogo da Adivinhação](https://formulario-chi-livid.vercel.app)
