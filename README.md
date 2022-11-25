@@ -16,6 +16,6 @@
 
 ## Abrir Projeto
 
-[Jogo da Adivinhação](https://formulario-chi-livid.vercel.app)
+[Jogo da Adivinhação](https://jogo-da-advinhacao-ruddy.vercel.app)
 
 <p align="center">Done with 💜 by vithorDeveloper👋</p>
